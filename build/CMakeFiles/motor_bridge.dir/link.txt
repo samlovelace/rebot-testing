@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmotor_bridge.a CMakeFiles/motor_bridge.dir/src/motor_bridge.cpp.o
+/usr/bin/ranlib libmotor_bridge.a

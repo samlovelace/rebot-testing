@@ -1,0 +1,10 @@
+/home/sam/dev/cpp/motor_bridge/build/CMakeFiles/motor_bridge.dir
+/home/sam/dev/cpp/motor_bridge/build/CMakeFiles/motor_bridge_test.dir
+/home/sam/dev/cpp/motor_bridge/build/CMakeFiles/arm_kinematics.dir
+/home/sam/dev/cpp/motor_bridge/build/CMakeFiles/test_kinematics.dir
+/home/sam/dev/cpp/motor_bridge/build/CMakeFiles/edit_cache.dir
+/home/sam/dev/cpp/motor_bridge/build/CMakeFiles/rebuild_cache.dir
+/home/sam/dev/cpp/motor_bridge/build/gui/CMakeFiles/motor_bridge_gui.dir
+/home/sam/dev/cpp/motor_bridge/build/gui/CMakeFiles/edit_cache.dir
+/home/sam/dev/cpp/motor_bridge/build/gui/CMakeFiles/rebuild_cache.dir
+/home/sam/dev/cpp/motor_bridge/build/gui/CMakeFiles/motor_bridge_gui_autogen.dir

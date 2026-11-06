@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/motor_bridge_test.dir/examples/test_main.cpp.o -o motor_bridge_test   -L/home/sam/.local/lib/python3.10/site-packages/motorbridge/lib  -Wl,-rpath,/home/sam/.local/lib/python3.10/site-packages/motorbridge/lib libmotor_bridge.a -lmotor_abi 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libarm_kinematics.a CMakeFiles/arm_kinematics.dir/gui/ArmKinematics.cpp.o
+/usr/bin/ranlib libarm_kinematics.a

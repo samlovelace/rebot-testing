@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test_kinematics.dir/examples/test_kinematics.cpp.o -o test_kinematics  libarm_kinematics.a 
